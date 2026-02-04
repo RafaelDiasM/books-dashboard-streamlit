@@ -7,7 +7,9 @@ The application allows users to explore prices, popularity, publication year, an
 ---
 
 ## Preview
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.PNG)
+![Dashboard](assets/dashboard_2.PNG)
+![Reviews](assets/book_reviews.PNG)
 
 ---
 
